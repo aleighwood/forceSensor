@@ -8,8 +8,9 @@ I did this project purely to learn how to make Python work with serial communica
 This programme uses Python to request and read (through a serial port on your computer (USB)) the value of a DIY force sensor connected to an Ardunio. The programme then displays a square (using the pyGame libary) and varies the colour of the square between red and green based on how hard the user presses the sensor.
 
 ## DIY Force Sensor
+![22659](https://github.com/aleighwood/forceSensor/assets/86426050/94362030-9228-418d-8c11-99b90ba5ed78)
 
-![circuit(1)](https://github.com/aleighwood/forceSensor/assets/86426050/33ad3406-4bf6-4312-ab2d-2b344fe1e837)
+
 
 The sensor is of simple but effective design. [Velostat](https://en.wikipedia.org/wiki/Velostat) is a piezoesistive material (resistance changes with pressure) making it useful for use in a force sensor. 
 
@@ -22,6 +23,7 @@ I found an using R $/approx 500 /Omega$ gave a range of 1000 (Ardunio ADC gives 
 I followed this KontinuumLAB [tutorial](https://www.youtube.com/watch?v=gCBbIeI4xTE) on how to make a force sensor.
 
 # Circuit Diagram 
-![circuit](https://github.com/aleighwood/forceSensor/assets/86426050/ec08e0c1-1aac-4e43-9928-5429485bfc54)
+![circuit(1)](https://github.com/aleighwood/forceSensor/assets/86426050/4dbc1afb-7636-434c-937f-a5a05fc02f31)
+
 
 # Requirements
