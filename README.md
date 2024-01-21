@@ -33,6 +33,6 @@ I followed this KontinuumLAB [tutorial](https://www.youtube.com/watch?v=gCBbIeI4
 
 # Requirements
 
-You will need the pygame and serial libaries.
+You will need the pygame, serial, sys and time libaries.
 
-You will also need to run the above Ardunio code on the Arduino.
+You will also need to upload the Ardunio code to the Ardunio. 
