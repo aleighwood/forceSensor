@@ -3,6 +3,8 @@ A basic programme that varies the colour of a square (red to green) based on how
 
 I did this project purely to learn how to make Python work with serial communication. I learnt a bit of pygame along the way, which was fun. 
 
+Here's a video of it working: https://youtube.com/shorts/wUYqlScKClk?feature=share
+
 # Working Principle
 
 This programme uses Python to request and read (through a serial port on your computer (USB)) the value of a DIY force sensor connected to an Ardunio. The programme then displays a square (using the pygame libary) and varies the colour of the square between red and green based on how hard the user presses the sensor.
