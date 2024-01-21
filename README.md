@@ -10,8 +10,11 @@ Here's a video of it working: https://youtube.com/shorts/wUYqlScKClk?feature=sha
 This programme uses Python to request and read (through a serial port on your computer (USB)) the value of a DIY force sensor connected to an Ardunio. The programme then displays a square (using the pygame libary) and varies the colour of the square between red and green based on how hard the user presses the sensor.
 
 ## DIY Force Sensor
-![22659](https://github.com/aleighwood/forceSensor/assets/86426050/94362030-9228-418d-8c11-99b90ba5ed78)
+Block diagram of system: 
+![20240121_130814535_iOS](https://github.com/aleighwood/forceSensor/assets/86426050/edc798c1-7b67-4c08-ab15-e2a67c23ac0a)
 
+Detail on the sensor construction:
+![22659](https://github.com/aleighwood/forceSensor/assets/86426050/94362030-9228-418d-8c11-99b90ba5ed78)
 
 
 The sensor is of simple but effective design. [Velostat](https://en.wikipedia.org/wiki/Velostat) is a piezoresistive material (resistance changes with pressure) making it ideal for use in a force sensor. 
